@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\bin\Debug\net5.0\mutlak-kare-alma.exe
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\bin\Debug\net5.0\mutlak-kare-alma.deps.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\bin\Debug\net5.0\mutlak-kare-alma.runtimeconfig.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\bin\Debug\net5.0\mutlak-kare-alma.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\bin\Debug\net5.0\mutlak-kare-alma.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\bin\Debug\net5.0\mutlak-kare-alma.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.AssemblyInfo.cs
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\obj\Debug\net5.0\refint\mutlak-kare-alma.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\obj\Debug\net5.0\mutlak-kare-alma.genruntimeconfig.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\mutlak-kare-alma\obj\Debug\net5.0\ref\mutlak-kare-alma.dll
